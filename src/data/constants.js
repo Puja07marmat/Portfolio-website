@@ -15,7 +15,7 @@ export const Bio = {
     "I am a problem solver and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Puja07marmat",
   resume:
-    "https://drive.google.com/file/d/1gi2mmviap-uAE6EPEM5FDoVLZ2q8GqaA/view?usp=sharing",
+    "https://drive.google.com/file/d/1FU_tlkcdA4vKYMUTEyoibBk6TN3vQtg8/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/puja-marmat-7a4778136/",
   twitter: "https://x.com/PujaMarmat07",
   
@@ -406,7 +406,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Puja07marmat/zapier-frontend",
-    webapp: "https://zapier-frontend-one.vercel.app/",
+    webapp: "https://zapier-frontend-beta.vercel.app/",
   },
   {
     id: 11,
