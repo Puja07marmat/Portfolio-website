@@ -15,7 +15,7 @@ export const Bio = {
     "I am a problem solver and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Puja07marmat",
   resume:
-    "https://drive.google.com/file/d/1qCTTuQqBzGAfyka5PaEPbu_fSL1ivq1v/view?usp=sharing",
+    "https://drive.google.com/file/d/1gi2mmviap-uAE6EPEM5FDoVLZ2q8GqaA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/puja-marmat-7a4778136/",
   twitter: "https://x.com/PujaMarmat07",
   
@@ -115,7 +115,7 @@ export const skills = [
       {
         name: "Google Cloud",
         image:
-          "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
+          "https://www.pngmart.com/files/23/Google-Cloud-Logo-PNG-Pic.png",
       },
       {
         name: "Docker",
@@ -136,15 +136,43 @@ export const skills = [
      
     ],
   },
+ {
+    title: "System Design",
+    skills: [
+      {
+        name: "Scalability",
+        image:
+          "https://png.pngtree.com/png-clipart/20230812/original/pngtree-scalability-blue-gradient-concept-icon-picture-image_7875103.png",
+      },
+      {
+        name: "Latency",
+        image:
+          "https://cdn-icons-png.freepik.com/512/17216/17216061.png",
+      },
+      {
+        name: "Load Balancing",
+        image:
+          "https://png.pngtree.com/png-vector/20220119/ourmid/pngtree-load-balancing-blue-gradient-concept-icon-circle-data-smart-vector-png-image_43937686.jpg",
+      },
+     
+      {
+        name: "Auto-Scaling",
+        image: "https://www.clipartmax.com/png/middle/288-2884612_aws-auto-scaling-logo.png",
+      },
+     
+      {
+        name: "Rate Limiting",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
+      },
+     
+    ],
+  },
 
    {
     title: "Others",
     skills: [
-      {
-        name: "System Design",
-        image:
-          "https://static.vecteezy.com/system/resources/thumbnails/013/775/025/small_2x/gear-template-icon-illustration-vector.jpg",
-      },
+     
       {
         name: "Render",
         image:
@@ -178,7 +206,7 @@ export const skills = [
       {
         name: "Netlify",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://png.pngtree.com/png-clipart/20230812/original/pngtree-scalability-blue-gradient-concept-icon-picture-image_7875103.png",
       },
       {
         name: "VS Code",
@@ -188,7 +216,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
+          "https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png",
       },
     ],
   },
@@ -197,8 +225,8 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Personal Project",
+    img: "https://png.pngtree.com/png-clipart/20230812/original/pngtree-scalability-blue-gradient-concept-icon-picture-image_7875103.png",
+    role: "Hands-on Project",
     company: "Jio-Cinema",
     date: "Dec 2025 - Jan 2026",
     desc: "Built a JioCinema-like OTT platform with high-quality video streaming through Node.js. Integrated TMDB API for real-time movie & TV show data, automating content updates. Optimized Next.js SSR, improving page load speed by 40% and enhancing SEO.",
@@ -215,8 +243,8 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Personal Project",
+    img: "https://png.pngtree.com/png-clipart/20230812/original/pngtree-scalability-blue-gradient-concept-icon-picture-image_7875103.png",
+    role: "Hands-on Project",
     company: "Zapier-Style Automation Platform",
     date: "July 2025 - Aug 2025",
     desc: "Built high-throughput worker services with retry mechanisms and dead-letter queues to ensure reliability Designed normalized PostgreSQL data models and integrated Redis for caching and state management.Secured REST APIs using JWT-based authentication and role-based access control.",
@@ -234,8 +262,8 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-    role: "Personal Project",
+    img: "https://png.pngtree.com/png-clipart/20230812/original/pngtree-scalability-blue-gradient-concept-icon-picture-image_7875103.png",
+    role: "Hands-on Project",
     company: "VLC Media Player",
     date: "April 2025 - May 2025",
     desc: "Designed and developed a VLC Media Player-inspired web application using HTML, CSS, and JavaScript,enabling smooth HD video playback with custom controls such as play, pause, seek, volume, and fullscreen.Implemented a professional and responsive UI with intuitive user interactions, ensuring a seamless multimedia experience across devices.",
@@ -248,7 +276,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://png.pngtree.com/png-clipart/20230812/original/pngtree-scalability-blue-gradient-concept-icon-picture-image_7875103.png",
     role: "Problem Solver",
     company: "DSA",
     date: "June 2023 - Jan 2026",
@@ -260,7 +288,7 @@ export const experiences = [
  
   {
     id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
+    img: "https://png.pngtree.com/png-clipart/20230812/original/pngtree-scalability-blue-gradient-concept-icon-picture-image_7875103.png",
     role: "Open Source Contributor ",
     company: "100XDevs School",
     date: "Nov 2025 - Dec-2025",
