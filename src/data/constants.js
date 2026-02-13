@@ -141,6 +141,11 @@ export const skills = [
     title: "Others",
     skills: [
       {
+        name: "System Design",
+        image:
+          "https://static.vecteezy.com/system/resources/thumbnails/013/775/025/small_2x/gear-template-icon-illustration-vector.jpg",
+      },
+      {
         name: "Render",
         image:
           "https://tse1.mm.bing.net/th/id/OIP.eRaUkv_SRG8YvFkt7JNyGAHaEU?w=718&h=419&rs=1&pid=ImgDetMain&o=7&rm=3",
@@ -356,6 +361,26 @@ export const education = [
 // ];
 export const projects = [
   {
+    id: 9,
+    title: "Zapier-Style Automation Platform",
+    date: "July 2025 - Aug 2025",
+    description:
+      "Tech Stack: Node.js, PostgreSQL, Kafka, Redis, Next.js. Architected an event-driven automation platform using Kafka to decouple triggers from action execution. Built high-throughput worker services with retry mechanisms and dead-letter queues to ensure reliability. Designed normalized PostgreSQL data models and integrated Redis for caching and state management. Secured REST APIs using JWT-based authentication and role-based access control. Implemented a Next.js UI for workflow creation and real-time execution monitoring.",
+    image: ZapierImage,
+    tags: [
+      "Docker",
+      "Next JS",
+      "PostgreSQL",
+      "Redis",
+      "JWT Authentication",
+      "Kafka",
+      "Node Js",
+    ],
+    category: "web app",
+    github: "https://github.com/Puja07marmat/zapier-frontend",
+    webapp: "https://zapier-frontend-one.vercel.app/",
+  },
+  {
     id: 11,
     title: "Jio-Cinema",
     date: "Dec 2025 - Jan 2026",
@@ -376,26 +401,7 @@ export const projects = [
     github: "https://github.com/Puja07marmat/ji-project-frontend",
     webapp: "https://ji-project-frontend.vercel.app/",
   },
-  {
-    id: 9,
-    title: "Zapier-Style Automation Platform",
-    date: "July 2025 - Aug 2025",
-    description:
-      "Tech Stack: Node.js, PostgreSQL, Kafka, Redis, Next.js. Architected an event-driven automation platform using Kafka to decouple triggers from action execution. Built high-throughput worker services with retry mechanisms and dead-letter queues to ensure reliability. Designed normalized PostgreSQL data models and integrated Redis for caching and state management. Secured REST APIs using JWT-based authentication and role-based access control. Implemented a Next.js UI for workflow creation and real-time execution monitoring.",
-    image: ZapierImage,
-    tags: [
-      "Docker",
-      "Next JS",
-      "PostgreSQL",
-      "Redis",
-      "JWT Authentication",
-      "Kafka",
-      "Node Js",
-    ],
-    category: "web app",
-    github: "https://github.com/Puja07marmat/zapier-frontend",
-    webapp: "https://zapier-frontend-one.vercel.app/",
-  },
+  
   {
     id: 0,
     title: "VLC Media Player",
