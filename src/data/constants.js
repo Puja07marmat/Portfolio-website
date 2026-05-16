@@ -15,7 +15,7 @@ export const Bio = {
     "I am a problem solver and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Puja07marmat",
   resume:
-    "https://drive.google.com/file/d/1FU_tlkcdA4vKYMUTEyoibBk6TN3vQtg8/view?usp=sharing",
+    "https://drive.google.com/file/d/1DzuRr43CkCATNuIFXKY3WPpsURLr1LWW/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/puja-marmat-7a4778136/",
   twitter: "https://x.com/PujaMarmat07",
   
