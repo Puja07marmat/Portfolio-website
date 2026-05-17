@@ -2,6 +2,7 @@ import JioImage from "../images/jio222image.jpg";
 import VlcImage from "../images/vlc image 22.jpg";
 import ZapierImage from "../images/zapierimage22.jpg";
 
+
 export const Bio = {
   name: "Puja Marmat",
   roles: [
